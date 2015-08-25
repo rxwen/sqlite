@@ -31,6 +31,6 @@ LOCAL_SHARED_LIBRARIES += libdl libsqlite3
 
 LOCAL_MODULE_TAGS := eng
 
-LOCAL_MODULE := sqlite
+LOCAL_MODULE := sqlite3
 
 include $(BUILD_EXECUTABLE)
